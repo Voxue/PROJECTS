@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=MainClass
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=
+comment2.target=void\ run()
+comment3.params=gui
+comment3.target=void\ createAndShowGUI(ThemeParkGUI)
+numComments=4
